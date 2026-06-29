@@ -1,5 +1,3 @@
-Your README is clear, but it's quite minimal. Here's a more polished version that's suitable for an ALU/Holberton project.
-
 # API
 
 ## Description
