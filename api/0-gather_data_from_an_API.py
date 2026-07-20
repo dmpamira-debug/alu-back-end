@@ -19,8 +19,8 @@ if __name__ == "__main__":
     print(
     "Employee {} is done with tasks({}/{}):".format(
         name, len(done), len(todos)
+        )
     )
-)
     for task in done:
         print("\t {}".format(task.get("title")))
 
